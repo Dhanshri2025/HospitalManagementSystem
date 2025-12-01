@@ -25,3 +25,9 @@
 
 **GitHub Repository:** https://github.com/Dhanshri2025/HospitalManagementSystem.git
 
+
+
+**\*\*Note:**
+
+Before running the project, please update the database credentials in the source code to match your local MySQL configuration.
+
